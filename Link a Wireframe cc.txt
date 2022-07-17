@@ -1,0 +1,19 @@
+Index
+https://wireframe.cc/pro/pp/78bcd7ba0559523 Escritorio
+https://wireframe.cc/pro/pp/9c932ae7d559541 Mobile
+
+Nosotros:
+https://wireframe.cc/pro/pp/3bdffb087562185 Escritorio
+https://wireframe.cc/pro/pp/9451fb7f1562186 Mobile
+
+Galeria:
+https://wireframe.cc/pro/pp/87fcc9385562196 Mobile
+https://wireframe.cc/pro/pp/1406c14b2562197 escritorio
+
+Productos:
+https://wireframe.cc/pro/pp/78ab50b4d562198 Escritorio
+https://wireframe.cc/pro/pp/2c891a2f7562199 Mobile
+
+Promociones:
+https://wireframe.cc/pro/pp/2fa5ed363562505 Mobile
+https://wireframe.cc/pro/pp/5f52be160562508 escritorio
